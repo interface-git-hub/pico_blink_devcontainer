@@ -1,0 +1,6 @@
+{
+    "name": "pico_blink_devcontainer",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
